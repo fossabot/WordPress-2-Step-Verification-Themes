@@ -90,7 +90,7 @@
 </head>
 <body>
 
-<img src="https://s3-us-west-1.amazonaws.com/dsuploads/wp-content/uploads/2016/04/15121631/2-step-auth-lock.png" align="middle">
+<img src="https://raw.githubusercontent.com/MarcWoodyard/WordPress-2-Step-Verification-Themes/master/lock-icon.png" align="middle">
 <div class="body">
     <form name="verifyForm" method="post" action="" id="verify-form">
         <input type="hidden" name="wp2sv_nonce" value="<?php echo wp_create_nonce('wp2sv_nonce'); ?>"/>
