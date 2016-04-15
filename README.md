@@ -9,3 +9,7 @@ Themes for the WordPress 2 step verification plugin. https://wordpress.org/plugi
 3.) Replace everything in that file with what you copied from one of the theme files above.
 <br/>
 4.) Save & enjoy!
+
+#Screenshots
+![alt tag](https://raw.githubusercontent.com/MarcWoodyard/WordPress-2-Step-Verification-Themes/master/Screenshots/Blue%20Theme.PNG)
+<h3>Blue Theme</h3>
