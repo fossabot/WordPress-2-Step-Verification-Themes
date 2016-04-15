@@ -12,5 +12,5 @@ Themes for the WordPress 2 step verification plugin. https://wordpress.org/plugi
 
 #Screenshots
 <h3>Blue Theme</h3>
-![alt tag](https://raw.githubusercontent.com/MarcWoodyard/WordPress-2-Step-Verification-Themes/master/Screenshots/Blue%20Theme.PNG)
+![alt tag](https://raw.githubusercontent.com/MarcWoodyard/WordPress-2-Step-Verification-Themes/master/Screenshots/Blue%20Theme.png)
 
