@@ -13,4 +13,9 @@ Themes for the WordPress 2 step verification plugin. https://wordpress.org/plugi
 #Screenshots
 <h3>Blue Theme</h3>
 ![alt tag](https://raw.githubusercontent.com/MarcWoodyard/WordPress-2-Step-Verification-Themes/master/Screenshots/Blue-Theme.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMarcWoodyard%2FWordPress-2-Step-Verification-Themes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMarcWoodyard%2FWordPress-2-Step-Verification-Themes?ref=badge_shield)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMarcWoodyard%2FWordPress-2-Step-Verification-Themes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMarcWoodyard%2FWordPress-2-Step-Verification-Themes?ref=badge_large)
